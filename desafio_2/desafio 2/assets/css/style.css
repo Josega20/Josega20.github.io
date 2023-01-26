@@ -1,0 +1,46 @@
+#header {
+    height: 5em;
+    padding-top: 1em;
+    padding-left: 45em;
+    padding-bottom: 3em;
+    background-image: url("../img/dona\ portada.jpg");
+    background-size: cover;
+    background-position: center;
+    }
+#header h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 4em;
+    color: rgb(255, 75, 20);
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+}
+#header p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2em;
+    color: rgb(255, 75, 20);
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+
+}
+.products {
+    width: 80%;
+    margin: auto;
+    background-color: lightsalmon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.products td {
+    width: 50%;
+    padding: 2em;
+}
+
+.products img {
+    width: 100%;
+    border: solid 5px #ddd;
+}
+
+#footer {
+    height: 4em;
+    background-color: rgb(255, 75, 20);
+    width: auto;
+    text-align: center;
+    padding-top: 2em;
+}

@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+body {
+    font-family: Roboto;
+}
+
+header {
+    background-color: #28a745;
+
+}
+
+header img {
+    width: 86pt;
+    height: 25pt;
+}
+
+main img {
+    width: 278pt;
+    height: 180pt;
+}
+
+main h5 {
+    color: rgba(33, 37, 41, 1);
+    font-size: 20pt;
+    font-weight: 300;
+    text-align: left;
+}
+
+.card-text {
+    color: #707070;
+    font-size: 16pt;
+    font-weight: 300;
+    text-align: left;
+}
+
+.direccion {
+    color: #707070;
+    text-align: left;
+    font-size: 13pt;
+    font-weight: 300;
+
+}
+
+.direccion p {
+    display: inline-block;
+}
+
+.precio {
+    text-align: right;
+}
+
+.preciolista {
+    display: inline-block;
+    font-size: 16pt;
+    font-weight: 300;
+}
+
+.oferta {
+    display: inline-block;
+    font-size: 20pt;
+    font-weight: 500;
+}
+
+
+
+section {
+    background-color: #28a745;
+}
+
+.info {
+    text-align: center;
+    font-size: 21pt;
+    font-weight: 500;
+}
+
+.nombre {
+    font-size: 16pt;
+    font-weight: 300;
+}
+
+footer img {
+    width: 82pt;
+    height: 24pt;
+}
+
+footer p {
+    color: #707070;
+    font-size: 16pt;
+    font-weight: 300;
+}
