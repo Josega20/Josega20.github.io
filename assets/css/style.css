@@ -24,3 +24,6 @@ header img {
     background-color: black;
     text-align: center;
   }
+  .info {text-align: center;
+    font-size: 21pt;
+    font-weight: 500;}
